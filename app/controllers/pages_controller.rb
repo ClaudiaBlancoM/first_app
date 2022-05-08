@@ -7,4 +7,4 @@ class PagesController < ApplicationController
 end
 def three
 end
-end
+
